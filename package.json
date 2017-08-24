@@ -21,6 +21,7 @@
     "async": "^2.5.0",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.15.4",
+    "mongoose": "^4.11.8",
     "request": "^2.81.0",
     "superagent": "^3.6.0",
     "superagent-charset": "^1.2.0",
